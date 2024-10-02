@@ -6,5 +6,6 @@ Skin: Dark green to sooty black
 Hair: Black
 Eyes: 
 Distinctions: Tusks
+Homeland:
 
 Created by the Red Wizards of Thay
