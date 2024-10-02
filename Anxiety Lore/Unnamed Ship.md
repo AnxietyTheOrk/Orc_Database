@@ -1,0 +1,4 @@
+Ship flying for The Smiths' Coster 
+Anxiety started on (ship name) as a mechanic. While on a trading route, the ship was struck on it's side causing substantial internal damage. While Anxiety was repairing (ship name) (ship part), he came across a satchel of loose papers, a few small books, and various mechanical pieces. He threw it over his shoulder, and finished working.
+Later that evening, he inspected the satchel and it's contents. The books were hand written by a former smith of (ship name), (smith name). They extensively detailed an experimental weapon she was working on, a Gunblade.
+Anxiety spent years studying, crafting, and improving (smith's name)'s designs. Eventually, the (ship's name)'s captain, (Captain's name), noticed the skills Anxiety had developed, and made him the (ship's name)'s primary smith.

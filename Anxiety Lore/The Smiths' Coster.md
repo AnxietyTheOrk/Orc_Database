@@ -1,0 +1,1 @@
+Merchant company, specializing in weapons and armor
