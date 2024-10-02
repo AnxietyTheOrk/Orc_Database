@@ -1,4 +1,4 @@
-Default Orc
+
 Height: 
 Weight: 
 Skin: Gray
