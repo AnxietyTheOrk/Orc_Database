@@ -5,5 +5,5 @@ Weight:
 Skin:
 Hair:
 Eyes:
-Distinctions: shaggy fur
+Distinctions: Shaggy fur
 Homeland:
