@@ -1,3 +1,4 @@
+![[Pasted image 20241002212756.png]]
 Space Orcs
 Height: 5-8' (1.5-2.4m)
 Weight: 140-180 lb 
@@ -9,3 +10,4 @@ Homeland: Dukagsh
 
 Subraces:
 [[Oscray]]
+
